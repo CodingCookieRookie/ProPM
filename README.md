@@ -1,3 +1,3 @@
 # ProPM
 
-Set up ProPM
+Set up ProPM for CS3203
